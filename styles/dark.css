@@ -31,8 +31,6 @@
   .page.theme_auto {
     background-image: url(../images/cover-image-dark.png);
     background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
   }
 }
 
@@ -44,6 +42,4 @@
 
   background-image: url(../images/cover-image-dark.png);
     background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
 }

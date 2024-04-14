@@ -32,8 +32,6 @@
   .page.theme_auto {
     background-image: url(../images/cover-image-light.png);
     background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
   }
 
   .rec-decor {
@@ -49,8 +47,6 @@
   
   background-image: url(../images/cover-image-light.png);
     background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
 
 }
 
